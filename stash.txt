@@ -1,0 +1,14 @@
+
+1. Stashing Changes
+
+Temporarily save uncommitted changes without committing them:
+git stash
+
+Apply the latest stash:
+git stash apply
+
+View all stashed changes:
+git stash list
+
+Drop the latest stash:
+git stash drop
