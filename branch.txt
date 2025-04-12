@@ -1,0 +1,8 @@
+
+A branch in Git is like a separate workspace where you can develop features or fix bugs without affecting the main branch.
+It allows multiple developers to work simultaneously without overwriting each other's work.
+
+Why Use Branches?
+Work on new features without disturbing the main branch.
+Easy to test and review before merging.
+Allows multiple developers to work on different tasks independently.
